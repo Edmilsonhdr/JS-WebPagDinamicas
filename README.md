@@ -1,4 +1,4 @@
-# JS-Web_pag_dinamicas-
+# JS-WebPagDinamicas
 ![Screenshot 2022-08-15 174901](https://user-images.githubusercontent.com/92001139/184715942-0ba9e2a7-bb15-40e5-a7a3-d58a104060a6.png)
 
 CONHECENDO JAVASCRIPT <br>
